@@ -19,22 +19,22 @@
 <configuration>
     <property>
         <name>hadoop.tmp.dir</name>
-        <value>/Users/zhangxiaofeng/hadoop-data/active/namespace</value>
+        <value>/Users/zxf/Downloads/hadoop-data/active/namespace</value>
     </property>
 
     <property>
         <name>dfs.namenode.name.dir</name>
-        <value>/Users/zhangxiaofeng/hadoop-data/active/namespace/dir</value>
+        <value>/Users/zxf/Downloads/hadoop-data/active/namespace/dir</value>
     </property>
 
 <!--    <property>-->
 <!--    <name>hadoop.tmp.dir</name>-->
-<!--    <value>/Users/zhangxiaofeng/hadoop-data/standby/namespace</value>-->
+<!--    <value>/Users/zxf/Downloads/hadoop-data/standby/namespace</value>-->
 <!--    </property>-->
 
 <!--    <property>-->
 <!--    <name>dfs.namenode.name.dir</name>-->
-<!--    <value>/Users/zhangxiaofeng/hadoop-data/standby/namespace/dir</value>-->
+<!--    <value>/Users/zxf/Downloads/hadoop-data/standby/namespace/dir</value>-->
 <!--    </property>-->
 
     <property>
@@ -104,7 +104,7 @@
 
     <property>
         <name>dfs.journalnode.edits.dir</name>
-        <value>/Users/zhangxiaofeng/hadoop-data/journal</value>
+        <value>/Users/zxf/Downloads/hadoop-data/journal</value>
     </property>
 
     <property>
@@ -134,7 +134,7 @@
 
     <property>
         <name>dfs.datanode.data.dir</name>
-        <value>/Users/zhangxiaofeng/hadoop-data/data</value>
+        <value>/Users/zxf/Downloads/hadoop-data/data</value>
     </property>
 
     <property>
